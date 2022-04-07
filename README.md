@@ -30,20 +30,21 @@ Tutorial YouTube
 
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
 
-## FOR TERMUX/UBUNTU/SSH
+## FOR TERMUX
 
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install bash
+$ pkg install yarn
 $ pkg install nodejs -y 
 $ pkg install git -y 
-& pkg install libwebp 
-& apt install ffmpeg -y
-& apt install imagemagick -y
-& git clone https://github.com/AzRyCb/AzBotz
-& cd (nama file)
-& npm install
-& npm update
+$ apt install ffmpeg -y
+$ apt install imagemagick -y
+$ pkg install libwebp
+$ git clone (nama repo)
+$ cd (nama file)
+$ npm install
+$ npm update
 ```
 ---------
 
