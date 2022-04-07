@@ -113,7 +113,12 @@ Support Me
 
 Thanks For Donate
 
-# My Sosial 
-- [Group ](https://chat.whatsapp.com/GNOimnXOQoR10oOjCsadXZ) 
-- [Whatsapp ](https://wa.me/6285795035419)
+---------
+Pencipta ama penulis ulang nya jangan dihapus yah:), kalau lu hapus besok yatim atau setiap hari lu mengalami musibah:)
+
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann) | [![Adri158](https://github.com/Adri158.png?size=100)](https://github.com/Adri158)
+----|----|----|----
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann) | [Adri](https://github.com/Adri158)
+ Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 |Penulis ulang Ke-3
+
 
