@@ -49,12 +49,12 @@ $ pkg install git -y
 
 ## FOR WINDOWS/VPS/RDP
 
-| Programs | LINK | Info |
+| Programs | LINK |
 |-----|--------|--------|
-|  **Git** |[here](https://git-scm.com/downloads) | Download & Install |
-|  **NodeJs** |[here](https://nodejs.org/en/download) | Download & Install | \n(**Add FFmpeg to PATH enviroment variables**)
-|**Ffmpeg** |[here](https://ffmpeg.org/download.html) | Download & Install |
-|**ImageMagick** |[here](https://imagemagick.org/script/download.php) | Download & Install |
+|**Git** |[here](https://git-scm.com/downloads)
+|**NodeJs** |[here](https://nodejs.org/en/download)\n(**Add FFmpeg to PATH enviroment variables**)
+|**Ffmpeg** |[here](https://ffmpeg.org/download.html)
+|**ImageMagick** |[here](https://imagemagick.org/script/download.php)
 
 #### Installing the FFmpeg and Add FFmpeg to PATH enviroment variables
 * Download one of the FFmpeg versions [here](https://ffmpeg.org/download.html).
