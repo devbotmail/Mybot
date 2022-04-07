@@ -17,23 +17,22 @@ Simple Rpg WhatsApp Bot
 
 ## Join Group Whatsapp
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GNOimnXOQoR10oOjCsadXZ) 
-**NO BOT**
 [![Wangsaff BOT](https://img.shields.io/badge/Wangsaff%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282195470493/)
 
 ## Deploy to heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AzRyCb/V3)
 
-Tutorial YouTube
-
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
-
-
 Heroku Buildpack
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[copy this link](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git)  |
 | **IMAGEMAGICK** |[copy this link](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)  |
+
+Tutorial YouTube
+
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
+
 ## FOR TERMUX/UBUNTU/SSH
 
 ```bash
