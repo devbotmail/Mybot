@@ -50,7 +50,7 @@ $ pkg install git -y
 ## FOR WINDOWS/VPS/RDP
 
 | Programs | LINK |
-|-----|--------|--------|
+|-----|--------|
 |**Git** |[here](https://git-scm.com/downloads)
 |**NodeJs** |[here](https://nodejs.org/en/download)\n(**Add FFmpeg to PATH enviroment variables**)
 |**Ffmpeg** |[here](https://ffmpeg.org/download.html)
