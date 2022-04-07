@@ -114,8 +114,7 @@ Support Me
 Thanks For Donate
 
 ---------
-Pencipta ama penulis ulang nya jangan dihapus yah:), kalau lu hapus besok yatim atau setiap hari lu mengalami musibah:)
-
+dihapus jangan ditambah boleh
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann) | [![Adri158](https://github.com/Adri158.png?size=100)](https://github.com/Adri158)
 ----|----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann) | [Adri](https://github.com/Adri158)
