@@ -100,6 +100,19 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/dashboard)
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
 
+## Thanks To
+* [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device)
+* [`Nurutomo`](https://github.com/Nurutomo)
+* [`Mhankbarbar`](https://github.com/MhankBarBar)
+* [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
+
+License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+Support Me
+* [`Paypal`](https://www.paypal.me/Cakhaho)
+* [`Saweria`](https://saweria.co/DikaArdnt)
+
+Thanks For Donate
 
 # My Sosial 
 - [Group ](https://chat.whatsapp.com/GNOimnXOQoR10oOjCsadXZ) 
