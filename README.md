@@ -15,9 +15,10 @@ Simple Rpg WhatsApp Bot
 <a href="https://github.com/Dawnfrosty/Mike-bot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Dawnfrosty/Mike-bot?label=Issues&color=red&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Dawnfrosty/Mike-bot?label=PullRequest&color=success&style=flat-square"></a>
 
-## Join Group Diskusi
+## Join Group Whatsapp
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GNOimnXOQoR10oOjCsadXZ) 
 **NO BOT**
+[![Wangsaff BOT](https://img.shields.io/badge/Wangsaff%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282195470493/)
 
 ## Deploy to heroku
 
