@@ -48,10 +48,10 @@ $ pkg install git -y
 ---------
 
 ## FOR WINDOWS/VPS/RDP
-download & install this programs
+# Download & install this programs
 | Programs | LINK |
 |-----|--------|
-|**Git** |[here](https://git-scm.com/downloads)
+|**Git** |https://git-scm.com/downloads)
 |**NodeJs** |[here](https://nodejs.org/en/download)
 |**Ffmpeg** |[here](https://ffmpeg.org/download.html)
 |**ImageMagick** |[here](https://imagemagick.org/script/download.php)
