@@ -53,8 +53,8 @@ $ pkg install git -y
 |-----|--------|--------|
 |  **Git** |[here](https://git-scm.com/downloads) | Download & Install |
 |  **NodeJs** |[here](https://nodejs.org/en/download) | Download & Install | \n(**Add FFmpeg to PATH enviroment variables**)
-| Download & Install | **Ffmpeg** |[here](https://ffmpeg.org/download.html) | 
-| Install | **ImageMagick** |[here](https://imagemagick.org/script/download.php) |
+|**Ffmpeg** |[here](https://ffmpeg.org/download.html) | Download & Install |
+|**ImageMagick** |[here](https://imagemagick.org/script/download.php) | Download & Install |
 
 #### Installing the FFmpeg and Add FFmpeg to PATH enviroment variables
 * Download one of the FFmpeg versions [here](https://ffmpeg.org/download.html).
