@@ -21,7 +21,6 @@ Simple Rpg WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AzRyCb/V3)
 
-Heroku Buildpack
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[copy this link](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git)  |
