@@ -28,6 +28,7 @@ Heroku Buildpack
 | **IMAGEMAGICK** |[copy this link](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)  |
 
 Tutorial YouTube
+
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)e
 
 ## FOR TERMUX/UBUNTU/SSH
