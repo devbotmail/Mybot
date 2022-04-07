@@ -20,6 +20,7 @@ Simple Rpg WhatsApp Bot
 ## Deploy to heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AzRyCb/V3)
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
 
 Heroku Buildpack
 | BuildPack | LINK |
@@ -29,7 +30,6 @@ Heroku Buildpack
 
 Tutorial YouTube
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
 
 ## FOR TERMUX/UBUNTU/SSH
 
@@ -85,6 +85,7 @@ npm update
 ```bash
 node .
 ```
+
 ---------
 ## ❗ Warning
 WhatsApp bot is still in the development stage, so there are a few bugs
