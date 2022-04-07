@@ -41,7 +41,7 @@ $ pkg install git -y
 $ apt install ffmpeg -y
 $ apt install imagemagick -y
 $ pkg install libwebp
-$ git clone (nama repo)
+$ git clone (link repo)
 $ cd (nama file)
 $ npm install
 $ npm update
@@ -49,7 +49,7 @@ $ npm update
 ---------
 
 ## FOR WINDOWS/VPS/RDP
-# Download & install this programs
+#### Download & install this programs
 | Programs | LINK |
 |-----|--------|
 |**Git** | [Click this](https://git-scm.com/downloads)
