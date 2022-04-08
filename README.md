@@ -125,13 +125,13 @@ git clone https://github.com/AzRyCb/AzBotz
 cd (nama folder) 
 npm install
 npm update
+```
 
 #### Run
 ```bash
 node .
 ```
-
-#### If npm install failed, try using yarn instead of npm
+##### If npm install failed, try using yarn instead of npm
 ```sh
 $ pkg install yarn -y
 $ yarn install
