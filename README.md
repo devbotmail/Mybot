@@ -120,15 +120,12 @@ If successful, it will give you a message like:
 > ffmpeg -version
 ```
 
+### Run
 ```bash
 git clone https://github.com/AzRyCb/AzBotz
 cd (nama folder) 
 npm install
 npm update
-```
-
-#### Run
-```bash
 node .
 ```
 ##### If npm install failed, try using yarn instead of npm
