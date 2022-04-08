@@ -125,8 +125,8 @@ git clone https://github.com/AzRyCb/AzBotz
 cd (nama folder) 
 npm install
 npm update
-```
-## Run
+
+#### Run
 ```bash
 node .
 ```
